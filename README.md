@@ -8,8 +8,6 @@ Kalman filters are powerful mathematical methods used to estimate and track stat
 - [Fundamentals of Kalman Filters](#fundamentals-of-kalman-filters)
 - [Application Areas](#application-areas)
 - [Sample Implementation](#sample-implementation)
-- [Conclusion](#conclusion)
-- [References](#references)
 
 ## Introduction
 
